@@ -1,0 +1,16 @@
+Database schema created using mySQL
+Functionality and interface created using Java
+
+Contributors:
+Otniel Thehumury
+Austin Lee
+
+BUILDING AND RUNNING DATABASE SCHEMA
+
+1. Go to directory code/postgresql/
+2. Run chmod +x *.sh
+3. Execute ./startPostgreSQL.sh and ./createPostgreDB.sh in that order
+4. Go to directory code/java/
+5. Run chmod +x *.sh
+6. Execute ./compile.sh
+7. Execute ./run.sh
